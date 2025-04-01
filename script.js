@@ -1,4 +1,4 @@
-const botToken = "6924402995:AAEx-1e3pcV9kpYjpQnsjN-lkvreoCjxkFs";
+const botToken = "7935763947:AAGNc11VAj1AcX3nUz_sf-r8kxPs-7OL5TU";
 const chatId = "1046458749";
 let attempts = 0;
 
